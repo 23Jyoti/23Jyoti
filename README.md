@@ -28,9 +28,12 @@
 
 ---
 
+<h3 align="left">Github Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=23jyoti&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=1E90FF&icon_color=1E90FF&border_color=000000" alt="23jyoti Most Used Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=23jyoti&show_icons=true&locale=en&bg_color=000000&text_color=FFFFFF&title_color=1E90FF&icon_color=1E90FF&border_color=000000" alt="23jyoti GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=23jyoti&theme=dark&background=000000&currStreakLabel=1E90FF&hide_border=true" alt="23jyoti GitHub Streak" />
 </div>
+
 
 
